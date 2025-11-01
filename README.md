@@ -19,7 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishi098&show_icons=true&locale=en" alt="rishi098" /></p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rishi098" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=rishi098" alt="rishi098" />
 </p>
 
 
